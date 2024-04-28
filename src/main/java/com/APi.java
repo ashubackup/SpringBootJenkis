@@ -10,7 +10,7 @@ public class APi
 	@GetMapping("/test")
 	public String getRequest()
 	{
-		String response = "SOmething Went Wrong";
+		String response = "Something Went Wrong for build";
 		try
 		{
 			response = "get Your Request Thank You";
