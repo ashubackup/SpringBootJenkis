@@ -8,7 +8,6 @@
 		<version>2.7.10</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<packging>war</packging>
 	<groupId>com</groupId>
 	<artifactId>SpringBootJenkis</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
